@@ -1,0 +1,22 @@
+{
+  "data": {
+    "category": [
+      {
+        "name": "Semple1",
+        "path": "/semple/_index.json"
+      },
+      {
+        "name": "Semple2",
+        "path": "/semple/_index.json"
+      },
+      {
+        "name": "Semple3",
+        "path": "/semple/_index.json"
+      },
+      {
+        "name": "Semple4",
+        "path": "/semple/_index.json"
+      }
+    ]
+  }
+}

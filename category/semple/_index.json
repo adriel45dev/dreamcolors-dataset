@@ -1,0 +1,16 @@
+{
+  "paths": [
+    {
+      "name": "Semple1",
+      "path": "/semple/semple1.json"
+    },
+    {
+      "name": "Semple2",
+      "path": "/semple/semple2.json"
+    },
+    {
+      "name": "Semple3",
+      "path": "/semple/semple.json"
+    }
+  ]
+}
